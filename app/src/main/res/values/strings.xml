@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">registrationapp</string>
+    <string name="EN">Name:</string>
+    <string name="EEm">Email:</string>
+    <string name="EPassword">Password:</string>
+    <string name="EP">Phone:</string>
+    <string name="Register">Register Now!</string>
+    <string name="RF">Registration Form</string>
+    <string name="TOP">Type of Pet:</string>
+    <string name="Gender">Gender:</string>
+    <string name="PetStore">Fluffy Furries Center</string>
+    <string name="PetInfo">Pet Information</string>
+    <string name="PN">Pet Name:</string>
+    <string name="M">Male</string>
+    <string name="F">Female</string>
+</resources>
